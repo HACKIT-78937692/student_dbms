@@ -43,7 +43,7 @@ int main()
         system("cls");
 
         cout << "\t\t====== STUDENT DATABASE MANAGEMENT SYSTEM ======";
-        cout <<"\n\n                                          ";
+        cout <<"\n\n                                         ";
         cout << "\n\n";
         cout << "\n \t\t\t 1. Add    Records";
         cout << "\n \t\t\t 2. List   Records";
